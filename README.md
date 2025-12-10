@@ -4,22 +4,22 @@ A fully dynamic and responsive product catalog system built for Elevatech. This 
 
 ## 🚀 Features
 
-**Dynamic Product Rendering**
+- **Dynamic Product Rendering**:
 All product cards are generated from a JavaScript data structure.
 
-**Interactive Quick View Modal**
+- **Interactive Quick View Modal**:
 Users can preview product details instantly without leaving the page.
 
-**Smart Filters & Search**
+- **Smart Filters & Search**:
 Category filter, real-time search, and sort controls.
 
-**Load More Pagination**
+- **Load More Pagination**:
 Gradually reveals more items for improved performance.
 
-**Responsive Layout**
+- **Responsive Layout**:
 Designed to look and feel great across devices.
 
-**Modular, Maintainable Codebase**
+- **Modular, Maintainable Codebase**:
 HTML, CSS, and JS kept clean and scalable.
 
 ## 🛠️ Technologies Used
